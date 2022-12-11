@@ -1,0 +1,3 @@
+10-3 (묶기 파일. g++ -g -o scope2 scope2-1.cpp scope2-2.cpp)
+11 (makefile)
+12-2 듣기

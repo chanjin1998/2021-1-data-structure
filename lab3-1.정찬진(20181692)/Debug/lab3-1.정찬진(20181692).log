@@ -1,0 +1,21 @@
+﻿  lab3-1.정찬진(20181692).cpp
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(9,17): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(9,17): message : 수명을 벗어난 변수 읽기로 인해 오류가 발생했습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(9,17): message : 'n' 사용량 참조
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(9,20): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(9,20): message : 수명을 벗어난 변수 읽기로 인해 오류가 발생했습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(9,20): message : 'n' 사용량 참조
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(15,27): error C3863: 배열 형식 'int [n][n]'은(는) 할당할 수 없습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(18,23): error C3863: 배열 형식 'int [n][n]'은(는) 할당할 수 없습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(36,23): error C3863: 배열 형식 'int [n][n]'은(는) 할당할 수 없습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(43,35): warning C4552: '<<': 식의 결과가 사용되지 않습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(47,17): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(47,17): message : 수명을 벗어난 변수 읽기로 인해 오류가 발생했습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(47,17): message : 'n' 사용량 참조
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(47,20): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(47,20): message : 수명을 벗어난 변수 읽기로 인해 오류가 발생했습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(47,20): message : 'n' 사용량 참조
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(52,27): error C3863: 배열 형식 'int [n][n]'은(는) 할당할 수 없습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(55,23): error C3863: 배열 형식 'int [n][n]'은(는) 할당할 수 없습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(61,23): error C3863: 배열 형식 'int [n][n]'은(는) 할당할 수 없습니다.
+C:\Users\jcjin\source\repos\lab3-1.정찬진(20181692)\lab3-1.정찬진(20181692).cpp(75,35): warning C4552: '<<': 식의 결과가 사용되지 않습니다.

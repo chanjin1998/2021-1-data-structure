@@ -1,0 +1,2 @@
+C:\Users\jcjin\source\repos\lab01-2\Debug\lab01-2.exe
+C:\Users\jcjin\source\repos\lab01-2\Debug\lab01-2.pdb
